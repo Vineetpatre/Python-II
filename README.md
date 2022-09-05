@@ -1,2 +1,0 @@
-# Python-II
-python codes
